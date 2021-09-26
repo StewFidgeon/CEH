@@ -17,6 +17,22 @@ Chapter 2 covers various networking basics like TCP & UDP clients & servers and 
 
 Chapter 3 covers raw sockets and sniffing.  
 
+Chapter 4 is about owning the network.
+
+Chapter 5 discusses web hacking.
+
+Chapter 6 extends the burp proxy.
+
+Chapter 7 covers Github command & control.
+
+Chapter 8 is about common trojaning techniques on Windows.
+
+Chapter 9 is about manipulating Internet Explorer.
+
+Chapter 10 is Windows privilege escalation.
+
+Chapter 11 is about automating offensive forensics.
+
 ## What was good about the book?
 The code samples explain in sufficient depth what is happening with data at each stage such that reproducing similar tools in another language is easier because the understanding of wat is happening with packets etc remains the same.
 
