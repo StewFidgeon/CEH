@@ -13,7 +13,7 @@ The book is essentially a how to manual for writing your own security analysis t
 ## What specifically does the book cover?
 Chapter 1 is an introductory guide to help set up the required language tools and runtimes.
 
-Chapter 2 covers various networking basics like TCP & UDP clients & servers and very quickly moves on to replacing netcat in case a sysadmin has removed it. Next up you start building your own simple proxy for traffic forwarding and analysis. After that you build your own SSH client using Paramiko.
+Chapter 2 covers various networking basics like TCP & UDP clients & servers and very quickly moves on to replacing netcat in case a sysadmin has removed it. Next up you start building your own simple proxy for traffic forwarding and analysis. After that you build your own SSH client using the Paramiko library.
 
 Chapter 3 covers raw sockets and sniffing.  
 
