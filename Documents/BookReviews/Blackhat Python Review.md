@@ -19,7 +19,7 @@ Chapter 3 covers raw sockets and sniffing, which begins with building your own U
 
 Chapter 4 is about owning the network with the Scapy packet manipulation library. The chapter begins by examining building a simple packet sniffer to capture SMTP, POP3, and IMPA credentials. The chapter progresses to cover ARP cache poisoning also using Scapy for this MITM attack. The chapter closes with logging the packet output to a PCAP file for analysis, and performing on the fly facial detection in any images within the captured packets.
 
-Chapter 5 discusses web hacking and begins with introducing the socket library urllib2. The chapter begins with executing a simple GET request and printing the response, and quickly enhances that to use a customer User-Agent HTTP Header.
+Chapter 5 discusses web hacking and begins with introducing the socket library urllib2. The chapter begins with executing a simple GET request and printing the response, and quickly enhances that to use a customer User-Agent HTTP Header. You then move on to building a scanner to map left over installations files for WordPress, Drupal, Joomla and other blogging platforms - these installations are often not up to date with their patching. The samepiece of code also makes use of Python threading for the first time in the book. The chapter then takes a look at brute forcing directory paths to achieve the same thing but with less knowledge of what is expected to be found, and suggests the use of DirBuster word lists and OWASPs list of vulnerable web apps against which to test your script. The chapter concludes by takig a look at HTML form authentication and how to brute force it where its been implemented without account lockouts or strong CAPTCHA's. 
 
 Chapter 6 extends the burp proxy.
 
