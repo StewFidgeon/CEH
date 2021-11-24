@@ -21,7 +21,7 @@ Chapter 4 is about owning the network with the Scapy packet manipulation library
 
 Chapter 5 discusses web hacking and begins with introducing the socket library urllib2. The chapter begins with executing a simple GET request and printing the response, and quickly enhances that to use a customer User-Agent HTTP Header. You then move on to building a scanner to map left over installations files for WordPress, Drupal, Joomla and other blogging platforms - these installations are often not up to date with their patching. The samepiece of code also makes use of Python threading for the first time in the book. The chapter then takes a look at brute forcing directory paths to achieve the same thing but with less knowledge of what is expected to be found, and suggests the use of DirBuster word lists and OWASPs list of vulnerable web apps against which to test your script. The chapter concludes by takig a look at HTML form authentication and how to brute force it where its been implemented without account lockouts or strong CAPTCHA's. 
 
-Chapter 6 extends the burp proxy.
+Chapter 6 extends the burp proxy. The chapter kicks off with setting up and installing Burp, and quickly moves on to fuzzing and writing your own custom fuzzer extension. Next comes writing your own custom intruder payload, before moving on to integrating with the Bing search engine to return information on all websites hosted on the same ip address as your target machine. This chapter concludes with adding a custom word list generator in Burp for the specific site being targeted.
 
 Chapter 7 covers Github command & control.
 
@@ -34,7 +34,7 @@ Chapter 10 is Windows privilege escalation.
 Chapter 11 is about automating offensive forensics.
 
 ## What was good about the book?
-The code samples explain in sufficient depth what is happening with data at each stage such that reproducing similar tools in another language is easier because the understanding of wat is happening with packets etc remains the same.
+The code samples explain in sufficient depth what is happening with data at each stage such that reproducing similar tools in another language is easier because the understanding of what is happening with packets etc remains the same.
 
 ## What could be improved, clarified, or covered in more depth?
 The code samples provided in my version of the book are all in Python 2 which is EOL, and converting them to Python 3 has been challenging due to my lack of Python experience.  It's a minor niggle with the book as I'm sure someone who does a lot of work with Python would be able to manage the conversion quickly and easily, and there are other peoples conversions available for reference in github.
