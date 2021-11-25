@@ -23,7 +23,7 @@ Chapter 5 discusses web hacking and begins with introducing the socket library u
 
 Chapter 6 extends the burp proxy. The chapter kicks off with setting up and installing Burp, and quickly moves on to fuzzing and writing your own custom fuzzer extension. Next comes writing your own custom intruder payload, before moving on to integrating with the Bing search engine to return information on all websites hosted on the same ip address as your target machine. This chapter concludes with adding a custom word list generator in Burp for the specific site being targeted.
 
-Chapter 7 covers Github command & control.
+Chapter 7 covers Github command & control of deployed trojans using GitHub to disseminate configuration and also to store any exfiltrated data. After creating a github account, the chapter progresses to deal with creating simple python modules to run code, such as a directory lister and environment variable dump. The chapter then covers how to build your own trojan in python to consume the code modules from github. 
 
 Chapter 8 is about common trojaning techniques on Windows.
 
