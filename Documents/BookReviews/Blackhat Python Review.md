@@ -25,7 +25,7 @@ Chapter 6 extends the burp proxy. The chapter kicks off with setting up and inst
 
 Chapter 7 covers Github command & control of deployed trojans using GitHub to disseminate configuration and also to store any exfiltrated data. After creating a github account, the chapter progresses to deal with creating simple python modules to run code, such as a directory lister and environment variable dump. The chapter then covers how to build your own trojan in python to consume the code modules from github. 
 
-Chapter 8 is about common trojaning techniques on Windows.
+Chapter 8 is about common trojaning techniques on Windows and begins with creating a very basic key logger, which is then enhanced to include into its log some basic details of the window into which the keystrokers are being entered. The trojan is then expanded to include both a screen shotter and to facilitate pythonic shellcode execution. The chapter moves on to looking at sandbox detection by working out how long the machine has been running and how long its been since the last user input.  This information is useful to ensure you only take screen grabs while the user is doing something, and that you only transmit data when they're not using the machine, to reduce the likelihood of a user noticing anything.
 
 Chapter 9 is about manipulating Internet Explorer.
 
