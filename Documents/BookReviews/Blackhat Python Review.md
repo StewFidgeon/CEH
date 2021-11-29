@@ -27,7 +27,7 @@ Chapter 7 covers Github command & control of deployed trojans using GitHub to di
 
 Chapter 8 is about common trojaning techniques on Windows and begins with creating a very basic key logger, which is then enhanced to include into its log some basic details of the window into which the keystrokers are being entered. The trojan is then expanded to include both a screen shotter and to facilitate pythonic shellcode execution. The chapter moves on to looking at sandbox detection by working out how long the machine has been running and how long its been since the last user input.  This information is useful to ensure you only take screen grabs while the user is doing something, and that you only transmit data when they're not using the machine, to reduce the likelihood of a user noticing anything.
 
-Chapter 9 is about manipulating Internet Explorer.
+Chapter 9 is about manipulating Internet Explorer. It begins with describing Man-in-the-browser attacks as a variant of MITM, but using Browser Helper Objects to attack IE. The aim is to steal credentials andother sensitive info straight out of the browser. The code sample targets gmail and facebook, deauthenticates the user and modifies the login form to send the username and password to a server we control, which then redirects them back to the real login page. The book then moves on to creating a script to exfiltrate Word doc and Excel sheets by encrypoting them and posting them onto a public access blog on Tumblr.
 
 Chapter 10 is Windows privilege escalation.
 
