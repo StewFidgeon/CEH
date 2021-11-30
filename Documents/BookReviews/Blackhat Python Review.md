@@ -29,7 +29,7 @@ Chapter 8 is about common trojaning techniques on Windows and begins with creati
 
 Chapter 9 is about manipulating Internet Explorer. It begins with describing Man-in-the-browser attacks as a variant of MITM, but using Browser Helper Objects to attack IE. The aim is to steal credentials andother sensitive info straight out of the browser. The code sample targets gmail and facebook, deauthenticates the user and modifies the login form to send the username and password to a server we control, which then redirects them back to the real login page. The book then moves on to creating a script to exfiltrate Word doc and Excel sheets by encrypoting them and posting them onto a public access blog on Tumblr.
 
-Chapter 10 is Windows privilege escalation.
+Chapter 10 is Windows privilege escalation. The chapter starts by looking at alternative ways to escalate privileges on a Windows box by using things such as scheduled tasks rather than kernel bugs and driver errors. The techniques in this chapter make use of the wmi library and kick off the coding with a simple process monitoring script looking at enabled privileges. The chapter then discusses Windows tokens as being objects that describe the secuirty context of a process or thread. Of particular note is to try to find any PowerShell scrpts running as SYSTEM.  The chapter then concludes by looking at ways to inject code into targetted files such that it runs as SYSTEM / other admin.
 
 Chapter 11 is about automating offensive forensics.
 
