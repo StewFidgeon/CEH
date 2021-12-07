@@ -11,6 +11,10 @@ The book is about the human element of secuirty - specifically social engineerin
 
 
 ## What specifically does the book cover?
+Preface - the book starts out by giving a few details of Mitnicks childhood, and how by the age of 12 he had learned enough social engineering and hacker thinking to travel for free throughout the LA / San Fernando Valley area by using dicarded blank transfers from the bus station bin, and purchasing a special hole punch used by conductors to tell the next bus driver where the trasnfer ticket was for. Mitnick then talks about his introduction to and love of Phreaking, and briefly discusses his time as a private investigator mastering the art of Social Engineering.
+
+Introduction.
+
 Chapter 1 Securities Weakest Link.
 
 Chapter 2 When Innocuous Information Isn't.
