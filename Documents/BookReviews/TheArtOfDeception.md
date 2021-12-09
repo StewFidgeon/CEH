@@ -17,7 +17,7 @@ Preface - the book starts out by giving a few details of Mitnicks childhood, and
 
 Introduction - The introduction just talks through very briefly the five main areas of organisation of the book which are:- securities weakest link, looking at how social engineers misuse your trust, how social engineers gain physical access to your site, finally how to reduce or prevent social engineering attacks in your business, and finally a security at a galnce style summary.
 
-Chapter 1 Securities Weakest Link introduces the idea of obtaining sensitive information or passwords simply by pretending to be someone else and just asking for it. The chapter presents a view that security is an illusion but in so far as it is real, it's a process and not a product. Mitnick presents a brief history of Stanley Rifkin's social engineering over at Security Pacific which turned out to be one of the largest bank heists in history, netting USD 10,200,000 back in 1978.
+Chapter 1 Securities Weakest Link introduces the idea of obtaining sensitive information or passwords simply by pretending to be someone else and just asking for it. The chapter presents a view that security is an illusion but in so far as it is real, it's a process and not a product. Mitnick presents a brief history of Stanley Rifkin's social engineering over at Security Pacific which turned out to be one of the largest bank heists in history, netting USD 10,200,000 back in 1978. The chapter closes by discussing corporate innocence, terrorism & deception, and whats coming up in the book with an interesting aside that Mitnick views parents are being the greatest of all social engineers.
 
 
 
