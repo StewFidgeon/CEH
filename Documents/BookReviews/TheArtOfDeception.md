@@ -24,7 +24,9 @@ The second sample con in the chapter deals with giving the mark what sounds like
 
 I wonder how well the techniques in this chapter have aged in the pandemic when everyone uses video calling linked to an internal Teams account or similar?
 
-Chapter 3 The Direct Attack: Just Asking For It.
+Chapter 3 The Direct Attack: Just Asking For It. The chapter suggests that directly asking for a piece of information after you've familiarised yourself with organisational jargon and department structures may sound legitimate enough that someone will assume you're an insider and just cooperate and provide information. 
+
+I'm still left wondering how easy it is to pretend to be an insider now.  I can easily tell if the call originates within my company on Teams or if its external, so just telling me you're in the VP's office won't work.
 
 Chapter 4 Building Trust.
 
