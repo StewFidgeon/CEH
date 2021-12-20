@@ -28,7 +28,9 @@ Chapter 3 The Direct Attack: Just Asking For It. The chapter suggests that direc
 
 I'm still left wondering how easy it is to pretend to be an insider now.  I can easily tell if the call originates within my company on Teams or if its external, so just telling me you're in the VP's office won't work.
 
-Chapter 4 Building Trust.
+Chapter 4 Building Trust. A good social engineer would expect to be met with suspicion and resistance, so would plan their atack ahead of time by anticipating the sort of questions his target might ask, in order to make the answers sound routine and boring.   If you know the same person will answer the phone whenver you call it, then you can make repeated calls for fake advice or help requests over a longer period of time to establish rapport, before engaging in the actual con.
+
+I can seehow this might work with smaller businesses where they may not have a corporate network with video calling, but for anything large like S&P 500 companies I'm really unsure this would still work.  Obviously it would if you can first enter the building or trojan your way onto a corporate laptop.
 
 Chapter 5 "Let Me Help You".
 
