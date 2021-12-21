@@ -32,6 +32,8 @@ Chapter 4 Building Trust. A good social engineer would expect to be met with sus
 
 The chapter continues the idea of using one call to a node (store, branch, or franchize) to gain an instant higher level of trust with a second node in a second call by impersonating the first node. Don't trust fellow employees too much - they may not be who they say they are and they may not be doing what they say they're doing.
 
+Learn the targets terminology. Terminology gives credibility and credibility builds trust.
+
 I can see how this might work with smaller businesses where they may not have a corporate network with video calling, but for anything large like S&P 500 companies I'm really unsure this would still work.  Obviously it would if you can first enter the building or trojan your way onto a corporate laptop.
 
 Chapter 5 "Let Me Help You".
