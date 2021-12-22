@@ -36,7 +36,7 @@ Learn the targets terminology. Terminology gives credibility and credibility bui
 
 I can see how this might work with smaller businesses where they may not have a corporate network with video calling, but for anything large like S&P 500 companies I'm really unsure this would still work.  Obviously it would if you can first enter the building or trojan your way onto a corporate laptop.
 
-Chapter 5 "Let Me Help You".
+Chapter 5 "Let Me Help You". The chapter starts out explaining how to cause a network problem for someone by getting them to give you their patch panel and port number, which you then use on a second call to the networking team posing as help desk and ask for their port to be turned off temporarily. The mark then calls you to have it fixed, so you call the real team back to have the port enabled.   When calling the mark back as call 4 you then also have them download some uptodate diagnostic software, which is obviously just a hidde backdoor to their machine.
 
 Chapter 6 "Can You Help Me?".
 
