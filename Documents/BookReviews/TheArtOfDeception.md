@@ -40,6 +40,11 @@ Chapter 5 "Let Me Help You". The chapter starts out explaining how to cause a ne
 
 The chapter then moves on to targetting new starters in a company, as they don't know the policies or the people very well yet. Being new they're eager to please and create a positive first impression. The example given starts with a call to HR pretending to be InfoSec wanting to trial a new security course for new starters requiring from HR a list of new starters and extension numbers. The second call is to a new starter posing again as InfoSec and this time running through policies as a warm up before moving to the sting - asking their email address, and which username they were assigned or selected before asking if the user has used letters, numbers, and special characters in their password. When they haven't he says we need to fix that and casually asks what password they did use. He then suggests using the same passowrd with a dash and the month number or name of the current month.  The user plays along and changes it while they're on the phone. There's more meaningless drivel at the end of the call to ensure they're not thinking about the information they gave away in the middle of it.
 
+
+
+So far I'm unclear on how the initial HR person was identified and how they would be contacted in an increasingly Teams driven ip calling world where its hard to impersonate someone calling from another office.  I'm guessing the HR details could be found on linked in etc then call reception and ask to be transferred tot he named person in the named department.
+
+
 Chapter 6 "Can You Help Me?".
 
 Chapter 7 Phony Sites and Dangerous Attachments.
