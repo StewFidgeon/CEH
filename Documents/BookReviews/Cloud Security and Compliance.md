@@ -23,7 +23,7 @@ Chapter 4 - Building an organisational culture around security
 The constituents of a good cyber security team are analysed, before moving on to look at cloud maturity levels vs automation level, and how to embed security into the engineers workflow via CI/CD.
 
 Chapter 5 - Forecasting changes in cloud security
-Consideres that cloud security will continue to eveolve and looks at how to blueprint risk management - identify, protect, detect, respond, and then recover.
+Consideres that cloud security will continue to evolve and looks at how to blueprint risk management - identify, protect, detect, respond, and then recover.
 
 Chapter 6 - Ten cloud security recommendations
 Take a cloudcentric approach - leave behind dated on-prem pratices.
