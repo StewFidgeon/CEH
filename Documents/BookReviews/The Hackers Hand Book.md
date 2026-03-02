@@ -22,6 +22,15 @@ Phase 3: Data exfiltration and monetization - exfiltrating data uses dark web dr
 
 Chapter 2 - The Cybercrime Arsenal
 
+Marketplaces & forums - the dark web hosts most of the illicit marketplaces offering illegal activities and stolen data (genesis mart, RussianMarket, AlphaBay, Exploit.in, and Breach Forums). 
+
+Tools and services offered - Malware & exploits, stolen credentials, zero-day vulnerabilities, botnets for hire, phishing kits, and money laundering services.
+
+Open Source & underground hacking tools - theHarvester for gathering OSINT (email addresses,employee details, subdomains and publicly available info), Shodan to find exposed systems and IoT devices, Maltego for data mining and link analysis to help reveal relationships between bits of information.
+
+Exploitation and privilege escalation - Metasploit is the industry standard tool for pen testing, having a vast library of exploits, payloads, and additional modules available, Cobalt Strike is commerical red teaming software for C&C, lateral movement, and post exploit activity, Mimikatz is used for credential harvesting from Windows systems,Evilginx2 for bypassing 2FA by acting as a reverse proxy on compromised devices, Social Engineering Toolkit for creating fake websites, phishing emails and credential harvesting attacks, and Modlishka for reverse proxy 2FA defeat similar to Evilginx2 but with more automation.
+
+Ransomware and malware creation tools - 
 
 
 Chapter 3 - The Basic Cyber-Criminals Toolkit
